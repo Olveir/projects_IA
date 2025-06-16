@@ -1,0 +1,10 @@
+pytesseract 
+Pillow 
+pandas 
+openpyxl
+opencv-python
+langchain-core
+langchain-openai
+langchain-community
+python-dotenv
+langchain-google-genai
